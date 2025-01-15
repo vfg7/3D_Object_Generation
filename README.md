@@ -50,4 +50,4 @@ Contribuições são bem-vindas! Se você tiver sugestões ou correções, fique
 
 ## Licença
 
-Este projeto é licenciado sob a Licença para mais detalhes.
+Este projeto é licenciado sob a Licença MIT.
